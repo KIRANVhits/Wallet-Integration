@@ -1,9 +1,7 @@
-# React + Vite
+# React + Vite + ethers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Wallet-Integration
+This is the demo of wallet integration to web or any app.
+Included token minting functionality in Binance Testnet as publically.
+Once you successfully mint the Tokens you can check in your wallet the Demo Tokens.
+Can import using 0x45567Edb0d60dfb814486C9eB72e67014b3E2b6c address
+# Wallet-Integration + Token-minting
